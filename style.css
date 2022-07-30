@@ -13,6 +13,14 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.st-button{
+    padding: 12px;
+    margin-top: 15px;
+    border-radius: 5px;
+    background-color: rgb(224, 48, 48);
+    text-decoration: none;
+    border: none;
+}
 .second-heading{
     text-align: center;
     margin-top: 100px;
@@ -37,7 +45,7 @@ body{
 .two{
         padding: 15px;
         margin-top: 5px;
-    
+        margin-left: 10px;
         background-color: rgb(206, 151, 151);
         border: 2px solid red;
         border-radius: 5px;
@@ -48,13 +56,15 @@ body{
 .donate-amount{
     margin-top: 40px;
     margin-left: 42%;
-   
-
 }
 .donate-button{
-    margin-top: 20px;
-    margin-left: 45%;
-    position: absolute;
-        
+    padding: 12px;
+        margin-top: 15px;
+        border-radius: 5px;
+        background-color: rgb(224, 48, 48);
+        text-align: none;
+        position: absolute;
+        margin-left: 44%;
+        color: white;
         
 }
