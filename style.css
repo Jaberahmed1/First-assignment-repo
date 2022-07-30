@@ -1,0 +1,60 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+    margin: -10px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.second-heading{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.flexabe-container{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 30px;
+    
+}
+#one {
+    
+        margin-left: 10px;
+        margin-top: 5px;
+        padding: 15px;
+        font-size: 20px;
+        border-radius: 5px;
+        background-color: whitesmoke;
+        
+}
+.two{
+        padding: 15px;
+        margin-top: 5px;
+    
+        background-color: rgb(206, 151, 151);
+        border: 2px solid red;
+        border-radius: 5px;
+}
+.mergin-donate{
+    margin-left: 30%;
+}
+.donate-amount{
+    margin-top: 40px;
+    margin-left: 42%;
+   
+
+}
+.donate-button{
+    margin-top: 20px;
+    margin-left: 45%;
+    position: absolute;
+        
+        
+}
