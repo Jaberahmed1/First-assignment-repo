@@ -68,3 +68,62 @@ body{
         color: white;
         
 }
+.flexabele-donateplan{
+    display: flex;
+    padding: 50px;
+
+}
+.block1{
+    
+    background-color: aqua;
+    margin-right: 10px;
+    margin-left: 25px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.block2{
+    background-color: antiquewhite;
+    margin-right: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.block3{
+    background-color: rgb(73, 133, 113);
+    margin-right:25px ;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 10px;
+
+
+}
+.contribute-bg{
+    background-color: brown;
+    padding: 12px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.donation-blog{
+    margin-left: 100px;
+    
+    padding: 50px;
+    margin-top: -40px;
+   
+}
+.donation-img{
+    margin-right: 60px;
+    margin-left: 5px;
+}
+.donation-blog-2{
+    margin-right: 60px;
+    margin-left: 5px;
+    padding: 30px;
+    margin-top: -40px;
+
+}
+.donation-img-2{
+    margin-left: 150px;
+    margin-right: -30px;
+
+}
